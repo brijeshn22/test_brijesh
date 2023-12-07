@@ -1,4 +1,4 @@
 x=1
-y=2
-sum=x+y
+sy=2
+sssum=x+y
 print("sum is ",sum)
